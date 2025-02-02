@@ -64,7 +64,7 @@ export default function App() {
         <div className="boxB w-92 h-88 bg-transparent border-1 border-gray-300 shadow-sm mx-6 rounded-4xl ">
           <div className="boxglow w-88 h-68 bg-gray-50 shadow-2xl mx-2 my-2 shadow-gray-50 rounded-4xl ">
             <div className="top flex flex-row mx-6 items-center">
-              <p className="mr-29 my-3 text-[13px] font-medium">Swap</p>
+              <p className="mr-27 my-3 text-[13px] font-medium">Swap</p>
               <div className="flex flex-row items-center gap-4">
                 <p className="text-[10px] text-gray-600 my-4">
                   Slippage: <span className="text-black">8%</span>
