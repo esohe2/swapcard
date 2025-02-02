@@ -258,7 +258,7 @@ export default function App() {
                 </svg>
               </div>
             </div>
-            <p className="ml-18">Slide To Swape</p>
+            <p className="ml-18">Slide To Swap</p>
           </div>
         </div>
         <div className="last w-20 h-2 rounded-2xl bg-gray-300 mx-44 mt-12"></div>
